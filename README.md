@@ -5,3 +5,4 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
 
+## Deployed app : https://ashhar001.github.io/covid19-tracker-ashar/
